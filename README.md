@@ -44,7 +44,7 @@ To run the unit tests, use:
 
 **mvn test**
 
-The application includes unit tests that verify the functionality of the CO2 calculation logic.
+The application includes unit tests that verify the functionality of the Service Agent SAP Backend.
 
 
 
