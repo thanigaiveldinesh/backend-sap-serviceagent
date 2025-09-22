@@ -47,6 +47,4 @@ To run the unit tests, use:
 The application includes unit tests that verify the functionality of the CO2 calculation logic.
 
 
-## Sample Output Accpetance
-
 
