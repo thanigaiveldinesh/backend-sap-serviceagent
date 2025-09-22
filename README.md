@@ -23,7 +23,7 @@ This Spring Boot application provides APIs to manage jobs. It allows creating, u
 
    git clone https://github.com/thanigaiveldinesh/backend-sap-serviceagent.git
    
-   cd service-agent-backend
+   cd serviceagent
    
 2. **Build the project**:
    
