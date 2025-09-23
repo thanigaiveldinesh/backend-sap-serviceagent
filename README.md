@@ -33,7 +33,9 @@ This Spring Boot application provides APIs to manage jobs. It allows creating, u
 
    Navigate to the target folder
 
-   java -jar target/service-agent-backend-1.0-SNAPSHOT.jar
+   java -jar target/serviceagent-0.0.1-SNAPSHOT.jar
+
+   Note: Ensure the JAR file is present in the target folder and use the exact name of the generated JAR file when running the application.
 
    Backend should be started with localhost:80 port.
 
